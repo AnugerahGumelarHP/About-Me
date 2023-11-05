@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Anugerah Gumelar Hendar Putera</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">Nama Lengkap: William Henry Gates III
+        \nTanggal Lahir: 28 Oktober 1955
+        \nTempat Lahir: Seattle, Washington, Amerika Serikat
+
+        \n\nPendidikan:
+        \nLakeside School, Seattle
+        \nHarvard University (dropout)
+
+        \n\nKarier:
+        \nPendiri dan CEO Microsoft Corporation (1975-2000)
+        \nCo-Chairman dan Chairman Microsoft (2000-2014)
+        \nCo-founder Bill and Melinda Gates Foundation (2000-sekarang)
+
+        \n\nKontribusi:
+        \nBerperan besar dalam revolusi komputer pribadi melalui pengembangan sistem operasi Windows.
+        \nMembantu mempopulerkan penggunaan komputer pribadi di seluruh dunia.
+        \nMelalui Bill and Melinda Gates Foundation, ia telah mendonasikan miliaran dolar untuk berbagai program pendidikan, kesehatan, dan pengentasan kemiskinan di seluruh dunia.
+
+        \n\nPenghargaan:
+        \nDianugerahi gelar kehormatan KBE (Knight Commander of the Order of the British Empire) oleh Ratu Elizabeth II pada tahun 2005
+        \nMenerima Presidential Medal of Freedom dari Presiden Barack Obama pada tahun 2016.
+
+        \n\nKehidupan Pribadi:
+        \nMenikah dengan Melinda French (1994-2021) dan memiliki tiga anak.
+        \nDikenal sebagai salah satu orang terkaya di dunia.
+        \nMemiliki minat yang kuat pada bidang sains, teknologi, dan filantropi.
+
+        \n\nCatatan: Informasi di atas adalah berdasarkan data yang tersedia hingga April 2023 dan dapat berubah seiring waktu.
+
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
